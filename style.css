@@ -1,0 +1,13 @@
+body { max-width: 680px; margin: 60px auto; padding: 0 20px; font: 18px/1.65 Georgia, "Times New Roman", serif; color: #222; }
+h1 { font-weight: normal; font-size: 32px; margin: 0 0 4px; }
+h1 a { color: #222; text-decoration: none; }
+.sub { color: #777; margin: 0 0 40px; font-size: 16px; }
+h2 { font-weight: normal; font-size: 24px; margin-top: 40px; }
+a { color: #2a5db0; }
+ul.posts { list-style: none; padding: 0; }
+ul.posts li { margin: 14px 0; }
+ul.posts .date { color: #999; font-size: 14px; margin-right: 10px; font-family: -apple-system, Helvetica, sans-serif; }
+img, figure { max-width: 100%; }
+figcaption { color: #777; font-size: 14px; }
+footer { margin-top: 60px; color: #999; font-size: 14px; font-family: -apple-system, Helvetica, sans-serif; }
+footer a { color: #999; margin-right: 14px; }
